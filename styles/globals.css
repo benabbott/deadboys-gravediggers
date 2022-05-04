@@ -37,16 +37,3 @@ a {
 div#__next {
   background-color: #000000;
 }
-
-@media (max-width: 970px)
-<style>
-.dFxDxb:before {
-    content: '';
-    background: #000000;
-    height: 715px;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -1;
-}

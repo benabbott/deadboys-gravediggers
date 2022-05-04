@@ -6,7 +6,7 @@ const localizationJson: LocalizationText = {
       headerLine2: 'COLLECTIBLE NFTS',
       description:
         'Check out our exclusive DEADBOYS ...',
-      // buttonText: 'LABEL',
+      buttonText: 'LABEL',
     },
     navbar: {
       navLinks: ['Buy a DeadBoy', 'Gallery', 'Merch', 'Blog', 'Team', 'Community', 'Members', 'My Items'],

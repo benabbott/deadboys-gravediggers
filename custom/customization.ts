@@ -59,10 +59,6 @@ const customizationJson: ThemeProps = {
         color: '#ffffff',
       },
       {
-        link: 'https://staging.deadboysinc.com/gallery/',
-        color: '#ffffff',
-      },
-      {
         link: 'https://staging.deadboysinc.com/merch/',
         color: '#ffffff',
       },
@@ -167,7 +163,7 @@ const customizationJson: ThemeProps = {
       color: 'grey',
     },
     button: {
-      isShown: true,
+      isShown: false,
       textColor: 'black',
       textFont: 'caption',
       backgroundColor: 'white',
