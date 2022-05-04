@@ -167,7 +167,7 @@ const customizationJson: ThemeProps = {
       textColor: 'white',
       textFont: 'caption',
       backgroundColor: 'red',
-      link: 'http://originals.deadboysinc.com/',
+      link: 'https://originals.deadboysinc.com/',
     },
   },
   myItemsPage: {
