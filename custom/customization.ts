@@ -119,11 +119,11 @@ const customizationJson: ThemeProps = {
     borderRadius: '8px',
     priceFont: {
       type: 'h4',
-      color: '#377EFF',
+      color: 'red',
     },
     countFont: {
       type: 'label',
-      color: '#000000',
+      color: '#ffffff',
     },
     titleFont: {
       type: 'h4',
@@ -174,7 +174,7 @@ const customizationJson: ThemeProps = {
     backgroundColor: '#ffffff',
     headerFont: {
       type: 'h2',
-      color: 'black',
+      color: 'white',
     },
   },
   detailPage: {
@@ -183,7 +183,7 @@ const customizationJson: ThemeProps = {
     imageShadow: false,
     cardTitleFont: {
       type: 'h1',
-      color: 'black',
+      color: 'white',
     },
     collectionNameFont: {
       type: 'caption',
@@ -199,7 +199,7 @@ const customizationJson: ThemeProps = {
     },
     editionFont: {
       type: 'h2',
-      color: 'black',
+      color: 'white',
     },
     cardDescriptionFont: {
       type: 'caption',
@@ -217,7 +217,7 @@ const customizationJson: ThemeProps = {
     dropdown: {
       borderColor: '#f2f2f2',
       arrowDropdownColor: '#666',
-      textColor: 'black',
+      textColor: 'white',
       textFont: 'caption',
     },
   },
